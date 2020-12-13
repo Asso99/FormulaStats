@@ -9,6 +9,10 @@
 /vendor/
 ###< symfony/framework-bundle ###
 
+###> Visual studio code ###
+/.vscode/
+###< Visual studio code ###
+
 ###> symfony/phpunit-bridge ###
 .phpunit
 .phpunit.result.cache
